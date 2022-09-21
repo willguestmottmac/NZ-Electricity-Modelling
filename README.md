@@ -14,6 +14,6 @@ This tool calculates C02 output based off the a location taking into account the
 
 Example output:
 
-![2](https://user-images.githubusercontent.com/84685671/191448658-57de62b7-f4e6-436d-8fc9-4ea51508e49d.jpg)
 
+![3](https://user-images.githubusercontent.com/84685671/191450129-3f8a10d5-cf26-4c02-8309-e5051484b70e.jpg)
 
